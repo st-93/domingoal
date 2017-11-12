@@ -1,0 +1,16 @@
+node_modules/
+npm-debug.log
+dist/
+.DS_Store
+.tmp
+.idea
+node_modules/
+*.log
+*.map
+ats-common-libs
+build/dll/dll.vendor.*
+build/dll/vendor-manifest.json
+build/coverage
+build/reports
+coverage
+*-sportsbook-skin
